@@ -1,6 +1,6 @@
 # PPL-MINI Project- Galaxian-Game
 
-Supports on 
+Supports on phone as it uses gyroscope and touch senses.
 
 
 
